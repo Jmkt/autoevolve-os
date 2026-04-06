@@ -1,0 +1,17 @@
+# AutoEvolve OS
+
+## System
+.obsidian/
+.DS_Store
+*.tmp
+*.log
+
+## Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+## IDE
+.vscode/
+.idea/
